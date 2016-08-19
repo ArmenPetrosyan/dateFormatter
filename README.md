@@ -1,4 +1,4 @@
-# dateFormatter
+# DateFormatter
 
-1) npm install
-2) npm test
+- npm install
+- npm test
