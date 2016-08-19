@@ -1,0 +1,21 @@
+{
+  "name": "dateformatter",
+  "version": "1.0.0",
+  "description": "TM time formats",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/testDateFormatter.js"
+  },
+  "author": "Arnie",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
